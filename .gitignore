@@ -1,0 +1,7 @@
+# exclude everything except directory src
+    /*
+    !/src
+    /src/*
+    !/FSAExtension
+    /FSAExtension/*
+    
